@@ -1,0 +1,15 @@
+What have I completed in this time?
+I have a playable character that controls fairly well.
+I have platforms that construct a level.
+I made power-ups to help the player complete the level
+
+Not completed:
+I still need to program different power so that they work, instead of merely existing aesthetically.
+I also need to still program respawning after death
+
+Unexpected tasks:
+I may need to figure out more about colliders to create more accurate collision without using a mesh collider. Box colliders work but are not a perfect match, and mesh colliders tend to lag the system.
+
+From here on out, I am going to make the power-ups work and create a more extended level. I will also try and make respawning with checkpoints work as well.
+
+Here is a video of my current progress: https://youtu.be/ZjiAuiYgs5k
